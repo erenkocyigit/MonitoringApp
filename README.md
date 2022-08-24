@@ -4,11 +4,13 @@
 
 Project Setup
 
-1.) Clone the project:
+### 1.) Clone the project:
 ```https://github.com/erenkocyigit/MonitoringApp.git```
-2.) Modify the
+
+### 2.) Modify the
 ```Monitoring Debug Properties```
-3.) Run the project.
+
+### 3.) Run the project.
 
 
 ```

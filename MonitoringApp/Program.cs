@@ -33,8 +33,8 @@ namespace MonitoringApp
             thread.Priority = ThreadPriority.AboveNormal;
             thread.Start();
 
-            nTempLifeTime = int.Parse(args[1]);
-            nTempSamplingTime = int.Parse(args[2]);
+            nTempLifeTime = int.Parse(args[1]) * 60;
+            nTempSamplingTime = int.Parse(args[2]) * 60;
             
 
             nCounter = nOverFlowCount = nTempLifeTime / nTempSamplingTime;

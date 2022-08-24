@@ -2,6 +2,13 @@
 
 # Console Application
 
+Project Setup
+1.) Clone the project: ```https://github.com/erenkocyigit/MonitoringApp.git```
+2.) Modify the ```Monitoring Debug Properties```
+3.) Run the project.
+
+
+```
 ## Created tiny C# utility monitor Windows processes and kill the processes that work longer than the threshold specified:
     * This command line utility expects three arguments: a process name, its maximum lifetime (in minutes) and a monitoring frequency (in minutes, as well). 
     * When you run the program, it starts monitoring processes with the frequency specified. 
@@ -9,6 +16,7 @@
     * When no process exists at any given moment, the utility continues monitoring (new processes might appear later).
     * The utility stops when a special keyboard button is pressed (Q).
     
+```    
 
 
 

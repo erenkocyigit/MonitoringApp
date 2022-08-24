@@ -3,8 +3,11 @@
 # Console Application
 
 Project Setup
-1.) Clone the project: ```https://github.com/erenkocyigit/MonitoringApp.git```
-2.) Modify the ```Monitoring Debug Properties```
+
+1.) Clone the project:
+```https://github.com/erenkocyigit/MonitoringApp.git```
+2.) Modify the
+```Monitoring Debug Properties```
 3.) Run the project.
 
 
